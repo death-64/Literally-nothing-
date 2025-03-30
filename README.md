@@ -26,7 +26,7 @@
                 output.textContent = "i always had a doubt on u cause u smelled really bad all the time!";
                 output.style.color = "green"; // Change text color
             } else if (userResponse === "no") {
-                output.textContent = "still not, had a doubt on u since chindhood sham on u bruh";
+                output.textContent = "still not, had a doubt on u since childhood shame on u bruh";
                 output.style.color = "red";
             } else {
                 output.textContent = "u fucking kidding me. write YES or NO  u asshole !";
@@ -34,5 +34,6 @@
             }
         }
     </script>
+    <p>tell me yes or no i wanna know from years tell me today</p>
 </body>
 </html>
